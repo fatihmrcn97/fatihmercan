@@ -59,7 +59,7 @@ body{
     background-size: 800px 500px;
     width: 800px;
     height: 500px;
-    top: 250px;
+    top: 390px;
     left: 100px;
     border:1px solid #262626;
     border-radius: 10px;
@@ -77,7 +77,7 @@ body{
     opacity: 0.3
 }.a2{
     position: absolute;
-    top: 270px;
+    top: 410px; 
     left: 1030px;
     font-size: 32px;
     width: 400px;
@@ -87,7 +87,7 @@ body{
     transition: .5s
 }.a3{
     position: absolute;
-    top: 420px;
+    top: 500px;
     left: 1050px;
     width: 360px;
     font-size: 16px;
@@ -97,7 +97,7 @@ body{
 }.icon ul{
  
     margin: 0;
-    padding-left: 1150px;
+    padding-left: 1050px;
     padding-top: 25px;
     display: flex;
 }.icon ul li {
